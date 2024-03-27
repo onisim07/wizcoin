@@ -15,7 +15,7 @@ To install with pip on Windows, run:
 
 ## Quickstart Guide
 
-TODO - fill this in later
+Here's some example code demonstrating how this module is used:
 
 ## Contribute
 
